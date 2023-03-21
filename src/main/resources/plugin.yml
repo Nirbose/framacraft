@@ -1,0 +1,5 @@
+name: Framacraft
+version: '${project.version}'
+main: fr.nirbose.framacraft.Framacraft
+api-version: 1.18
+description: Framework for spigot plugin

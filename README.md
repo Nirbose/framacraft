@@ -1,2 +1,0 @@
-# framacraft
-Spigot framework
