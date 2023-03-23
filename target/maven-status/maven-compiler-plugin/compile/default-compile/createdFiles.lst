@@ -1,0 +1,7 @@
+fr\nirbose\framacraft\inventory\SlotIventory.class
+fr\nirbose\framacraft\inventory\View.class
+fr\nirbose\framacraft\collections\Collection.class
+fr\nirbose\framacraft\Framacraft.class
+fr\nirbose\framacraft\resources\views\TestView.class
+fr\nirbose\framacraft\listeners\InventoryClickListener.class
+fr\nirbose\framacraft\resources\commands\FramaCommand.class
