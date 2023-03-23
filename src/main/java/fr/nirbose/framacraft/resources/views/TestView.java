@@ -1,6 +1,6 @@
 package fr.nirbose.framacraft.resources.views;
 
-import fr.nirbose.framacraft.inventory.View;
+import fr.nirbose.framacraft.api.inventory.View;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 

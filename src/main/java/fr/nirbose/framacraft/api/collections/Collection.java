@@ -1,4 +1,4 @@
-package fr.nirbose.framacraft.collections;
+package fr.nirbose.framacraft.api.collections;
 
 import java.util.HashMap;
 import java.util.Map;

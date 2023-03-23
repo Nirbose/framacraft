@@ -1,6 +1,6 @@
-package fr.nirbose.framacraft.inventory;
+package fr.nirbose.framacraft.api.inventory;
 
-import fr.nirbose.framacraft.collections.Collection;
+import fr.nirbose.framacraft.api.collections.Collection;
 import org.bukkit.inventory.ItemStack;
 
 public class SlotIventory {

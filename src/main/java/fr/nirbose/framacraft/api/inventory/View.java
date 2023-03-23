@@ -1,4 +1,4 @@
-package fr.nirbose.framacraft.inventory;
+package fr.nirbose.framacraft.api.inventory;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

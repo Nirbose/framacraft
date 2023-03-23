@@ -1,7 +1,7 @@
-package fr.nirbose.framacraft.listeners;
+package fr.nirbose.framacraft.api.listeners;
 
-import fr.nirbose.framacraft.collections.Collection;
-import fr.nirbose.framacraft.inventory.View;
+import fr.nirbose.framacraft.api.collections.Collection;
+import fr.nirbose.framacraft.api.inventory.View;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
