@@ -1,9 +1,5 @@
 name: Framacraft
 version: '0.0.1'
 main: fr.nirbose.framacraft.Framacraft
-api-version: 1.18
+api-version: 1.19
 description: Framework for spigot plugin
-commands:
-  framacmd:
-    description: framacmd
-    usage: /framacmd

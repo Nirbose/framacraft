@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Framacraft.iml" filepath="$PROJECT_DIR$/Framacraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framacraft.iml" filepath="$PROJECT_DIR$/framacraft.iml" />
     </modules>
   </component>
 </project>
